@@ -1,0 +1,6 @@
+function getGoods{
+switch(goods){
+
+
+}
+}
